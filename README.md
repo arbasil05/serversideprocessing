@@ -188,3 +188,4 @@ urlpatterns = [
 
 ## Result:
 
+The website with server side response has been created succesfully
